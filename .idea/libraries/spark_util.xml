@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spark-util">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../spark-util/out/artifacts/spark_util_jar/spark-util.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
